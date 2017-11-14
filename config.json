@@ -1,0 +1,12 @@
+{
+  "token": "YOUR TOKEN HERE",
+  "prefix": "..",
+  "deleteAfter": 6,
+  "afkMessage": "Hey, I'm away right now. I'll get back to you as soon as I can!",
+  "replacements": [
+    {
+      "from": "{lenny}",
+      "to": "( ͡° ͜ʖ ͡°)"
+    }
+  ]
+}
